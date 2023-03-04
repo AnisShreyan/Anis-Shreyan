@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Anis Shreyan](http://anis.ink/)
-* ✉️  You can contact me at [hi@anisshreyan.tech](mailto:hi@anisshreyan.tech)
+* ✉️  You can contact me at [anisasru@gmail.com](mailto:anisasru@gmail.com)
 * 🤝  I'm open to collaborating on Github
 
 <a href="https://www.twitter.com/AnisShreyan" target="_blank" rel="noreferrer"><img
